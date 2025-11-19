@@ -1,0 +1,48 @@
+med_id,brand_name,generic_name,dosage,unit,mrp,manufacturer
+M001,Metformin 500mg,Metformin,500,mg,45,Glycomet Labs
+M002,Amlodipine 5mg,Amlodipine,5,mg,28,Amlong Pharma
+M003,Paracetamol 650mg,Paracetamol,650,mg,35,Crocin Labs
+M004,Atorvastatin 10mg,Atorvastatin,10,mg,65,Lipicure Ltd
+M005,Levothyroxine 50mcg,Levothyroxine,50,mcg,18,Euthyrox Co
+M006,Pantoprazole 40mg,Pantoprazole,40,mg,32,PantoHeal
+M007,Amoxicillin 500mg,Amoxicillin,500,mg,40,AmoxiCorp
+M008,Cefixime 200mg,Cefixime,200,mg,60,Cefix Pharma
+M009,Metoprolol 50mg,Metoprolol,50,mg,25,MetroHeal
+M010,Losartan 50mg,Losartan,50,mg,55,Losar Inc
+M011,Aspirin 75mg,Aspirin,75,mg,10,CardioSafe
+M012,Clopidogrel 75mg,Clopidogrel,75,mg,45,PlavixGen
+M013,Cetirizine 10mg,Cetirizine,10,mg,12,CetaPharm
+M014,Ranitidine 150mg,Ranitidine,150,mg,15,RaniHeal
+M015,Salbutamol Inhaler 100mcg,Salbutamol,100,mcg,120,Ventolin Ph
+M016,Insulin Human 10ml,Insulin,10,ml,250,InsuCare
+M017,Omeprazole 20mg,Omeprazole,20,mg,30,Omepral
+M018,Ciprofloxacin 500mg,Ciprofloxacin,500,mg,50,CiproHeal
+M019,Doxycycline 100mg,Doxycycline,100,mg,40,DoxyCorp
+M020,Azithromycin 500mg,Azithromycin,500,mg,90,Azithro Labs
+M021,Multivitamin Syrup,Multivitamin,5,ml,120,VitaPlus
+M022,Iron Folic Tablets,Iron Folic,100,mg,35,Ferromax
+M023,Cetomacrogol Cream,Cetomacrogol,20,g,80,Dermacare
+M024,Loratadine 10mg,Loratadine,10,mg,14,LoraPharm
+M025,Hydrochlorothiazide 25mg,Hydrochlorothiazide,25,mg,20,HydroTabs
+M026,Clindamycin 300mg,Clindamycin,300,mg,75,ClindaGen
+M027,Morphine (low dose) 10mg,Morphine,10,mg,200,Morpho Labs
+M028,Gabapentin 300mg,Gabapentin,300,mg,85,GabaHeal
+M029,Sertraline 50mg,Sertraline,50,mg,60,SertraPharma
+M030,Fluconazole 150mg,Fluconazole,150,mg,55,Fungolabs
+M031,Prednisone 5mg,Prednisone,5,mg,22,PredniCare
+M032,Warfarin 2mg,Warfarin,2,mg,30,CoumaCare
+M033,Risperidone 2mg,Risperidone,2,mg,45,Risper Labs
+M034,Alprazolam 0.5mg,Alprazolam,0.5,mg,12,Alpra Pharma
+M035,Losartan+HCTZ,Losartan+HCTZ,50+12.5,mg,80,Combiflow
+M036,Dapagliflozin 10mg,Dapagliflozin,10,mg,120,DapaCare
+M037,Salmeterol+Fluticasone Inhaler,Salmeterol+Fluticasone,50/250,mcg,450,InhalaTec
+M038,Budesonide 0.5mg Nebules,Budesonide,0.5,mg,150,BudeNeb
+M039,Nitroglycerin 0.4mg Spray,Nitroglycerin,0.4,mg,180,NitraSpray
+M040,Calcium Carbonate 500mg,Calcium Carbonate,500,mg,25,Calcimax
+M041,Furosemide 40mg,Furosemide,40,mg,28,FuroCare
+M042,Heparin Injection 5000IU,Heparin,5000,IU,95,HeparinCo
+M043,Enalapril 5mg,Enalapril,5,mg,35,Enalapril Rx
+M044,Amphotericin B 50mg,Amphotericin B,50,mg,1200,AmphoLabs
+M045,Nitrofurantoin 100mg,Nitrofurantoin,100,mg,65,NitroHeal
+M046,Sitagliptin 50mg,Sitagliptin,50,mg,95,SitaCare
+M047,Levofloxacin 500mg,Levofloxacin,500,mg,85,LevoPharm
